@@ -1,1 +1,1 @@
-export const {DB_NAME} = "iTube"
+export const DB_NAME = "iTube"
